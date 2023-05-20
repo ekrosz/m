@@ -1,0 +1,16 @@
+C:\Users\ekrosz\Desktop\ulstu\Praktika_2\bin\Debug\net5.0\Praktika_2.exe
+C:\Users\ekrosz\Desktop\ulstu\Praktika_2\bin\Debug\net5.0\Praktika_2.deps.json
+C:\Users\ekrosz\Desktop\ulstu\Praktika_2\bin\Debug\net5.0\Praktika_2.runtimeconfig.json
+C:\Users\ekrosz\Desktop\ulstu\Praktika_2\bin\Debug\net5.0\Praktika_2.runtimeconfig.dev.json
+C:\Users\ekrosz\Desktop\ulstu\Praktika_2\bin\Debug\net5.0\Praktika_2.dll
+C:\Users\ekrosz\Desktop\ulstu\Praktika_2\bin\Debug\net5.0\Praktika_2.pdb
+C:\Users\ekrosz\Desktop\ulstu\Praktika_2\obj\Debug\net5.0\Praktika_2.csproj.AssemblyReference.cache
+C:\Users\ekrosz\Desktop\ulstu\Praktika_2\obj\Debug\net5.0\Praktika_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekrosz\Desktop\ulstu\Praktika_2\obj\Debug\net5.0\Praktika_2.AssemblyInfoInputs.cache
+C:\Users\ekrosz\Desktop\ulstu\Praktika_2\obj\Debug\net5.0\Praktika_2.AssemblyInfo.cs
+C:\Users\ekrosz\Desktop\ulstu\Praktika_2\obj\Debug\net5.0\Praktika_2.csproj.CoreCompileInputs.cache
+C:\Users\ekrosz\Desktop\ulstu\Praktika_2\obj\Debug\net5.0\Praktika_2.dll
+C:\Users\ekrosz\Desktop\ulstu\Praktika_2\obj\Debug\net5.0\refint\Praktika_2.dll
+C:\Users\ekrosz\Desktop\ulstu\Praktika_2\obj\Debug\net5.0\Praktika_2.pdb
+C:\Users\ekrosz\Desktop\ulstu\Praktika_2\obj\Debug\net5.0\Praktika_2.genruntimeconfig.cache
+C:\Users\ekrosz\Desktop\ulstu\Praktika_2\obj\Debug\net5.0\ref\Praktika_2.dll
